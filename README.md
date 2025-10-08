@@ -141,4 +141,4 @@ Feel free to fork the repository, create a branch, and submit a pull request if 
 
 ## Contact
 
-For any queries or suggestions, please reach out to [aymenMir1001@gmail.com](mailto:aymenMir1001@gmail.com)
+For any queries or suggestions, please reach out to [beingdipanshu7@gmail.com](mailto: beingdipanshu7@gmail.com)
