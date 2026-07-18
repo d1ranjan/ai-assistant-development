@@ -64,7 +64,7 @@ All the sub-agents report back to the Assistant Manager after completing their r
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/d1ranjan/ai-personal-assistant
+    git clone https://github.com/d1ranjan/ai-personal-development
     cd AI-personal-assistant
     ```
 
